@@ -1,0 +1,156 @@
+#container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1100px;
+    background-color:white;
+    }
+
+    #content {
+        width: 1100px;
+        margin-right: auto;
+        /* margin-left: auto; */
+        background-color:white;
+    }
+
+#main-content {
+  
+    background-color: white;
+    position: relative;
+    top: 18px;
+    
+    font-family: 'Dosis' , sans-serif;
+}
+
+.subsection{
+    line-height: 120px;
+    padding-left: 30px;
+    font-size: 50px;
+    color: #570b0b;
+    font-weight: bold;
+    height: 140px;
+    width: 770px;
+
+}
+
+
+.event-date-first-child {
+    border-top: 1px solid #ccc;
+    margin-top: 0;
+}
+
+
+
+#quote1 {
+    height: 70px;
+}
+
+p span {
+    border: 0 solid black;
+    padding: 12px;
+    position: relative;
+    background-color: white;
+}
+
+#text {
+    text-align: center;
+    font-family:'Pacifico';
+    font-size: 25px;
+}
+
+.event-date {
+    width: 100px;
+    height: 7px;
+    text-align: center;
+    line-height: 26px;
+    float: left;
+    font-size: 14px;
+    border-top: 2px solid #ccc;
+    margin: -1px 0 0 0 ;
+    padding: 4px 5px 6px 0;
+    clear: left;
+    font-weight: bold;
+}
+
+.event-desc {
+    width: 625px;
+    background: #f9f9f9;
+    float: left;
+    margin: 0;
+    padding: 8px 12px 8px 8px;
+    border-top: 1px solid #ccc;
+    clear: right;
+    font-size: 14px;
+}
+.event-desc-nth-child {
+    border-bottom: 1px solid #ccc;
+}
+#side-content {
+    height: 600px;
+    width: 110px;
+    background-color: white;
+    float: right;
+    /* clear: both; */
+    position: relative;
+    bottom: 680px;
+}
+
+#second-image {
+    width: 250px;
+    height: 250px;
+    position: relative;
+    top: 7px;
+    float: right;
+    right: 15px;
+    border: solid;
+   
+
+}
+info {
+    font-size: 90%;
+    font-family: 'Dosis' , sans-serif;
+    position: relative;
+    margin-bottom: 2em;
+    text-align: center;
+    background-color: white;
+}
+
+.th, .info td {
+    vertical-align: top;
+    border: 0;
+    border-bottom: 1px solid #dddddd;
+    padding: 0.2em;
+}
+
+#nutshell {
+    font-family: 'Lato' , sans-serif;
+    font-weight:bold;
+    font-size: 26px;
+}
+
+
+
+#footer { 
+    background-color:#ececec;
+    height: 180px;
+  float: center;
+   
+}
+
+#quotes {
+    font-family: 'Pacifico' ;
+    text-align: center; 
+    font-size: 25px;
+    position: relative;
+    top: 15px;
+    left: 50px;
+
+}
+a {
+    color:dodgerblue;
+    text-decoration:none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blue;
+}
